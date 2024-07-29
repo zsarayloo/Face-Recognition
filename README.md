@@ -1,4 +1,4 @@
-# Face Recognition by classic Machine Learning methods
+# Face Recognition by Classic Machine Learning methods
 # Author : zahra
 # Year: 2012
 
